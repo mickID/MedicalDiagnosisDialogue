@@ -1,0 +1,14 @@
+INFO:root:1   symptom@@@Cough
+INFO:root:1   symptom@@@Sneeze
+INFO:root:1   symptom@@@Defecate
+INFO:root:1   symptom@@@Headache
+INFO:root:1   symptom@@@Acid reflux
+INFO:root:1   symptom@@@Oliguria
+INFO:root:1   symptom@@@Nausea
+INFO:root:1   symptom@@@Anorexia
+INFO:root:1   symptom@@@Mild thyroid enlargement
+INFO:root:1   symptom@@@Edema
+INFO:root:1   symptom@@@Thin
+INFO:root:1   symptom@@@Diplopia
+INFO:root:1   symptom@@@Rash
+INFO:root:1   disease@@@Pneumonia
